@@ -1,5 +1,5 @@
 *Code:
-  -Fix abbreviations only working for one plot at a time.
+  -Fix abbreviations only working for one plot at a time. [Fixed]
 
 *SVM Model:
   -Transform date to label encoder to work with train test split.
